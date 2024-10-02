@@ -102,3 +102,9 @@ main{
     text-align: center;
 padding: 50px;
 }
+#What-do{
+    padding: 30px 150px;
+}
+.skills{
+    display: flex;
+}
